@@ -12,7 +12,7 @@ Resumindo é unha carga electrónica mínima con posibilidades de maior control 
 Saú2. 
 
 ## [Versi�n 001.]
-<img src="https://github.com/xdesig/CE6A/CE6A_34.png">
+<img src="https://github.com/xdesig/CE6A/blob/main/CE6A_34.png">
 
 
 * ###  Dese�ado en Estrimia con agarimo.
@@ -21,4 +21,3 @@ Saú2.
 * Author: [XDeSIG][TWI01]
 * License: [CERN Open Hardware Licence Version 2 - Weakly Reciprocal][CERN-OHL-W]
 align="center">
-
