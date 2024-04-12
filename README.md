@@ -1,15 +1,15 @@
 
-# Carga electr√≥nica de 6A "CE6A"
+# Carga electrÛnica de 6A "CE6A"
 
 
 > [!NOTE]
 > Docu in Galician language
 
-Tratase dun circu√≠to cl√°sico de carga electr√≥nica, que permite paralelizar varias para obter maior corrente de carga.
-Tam√©n podemos cambiar MOSFET un de maior corrente (VGS min<=12V\| VGS sat)
-Unha opci√≥n e por un TOPFET-N que xa conta con driver interno e protecci√≥ns.
-Resumindo √© unha carga electr√≥nica m√≠nima con posibilidades de maior control mediante microcontrolador...
-Sa√∫2. 
+Tratase dun circuÌto cl·sico de carga electrÛnica, que permite paralelizar varias para obter maior corrente de carga.
+TamÈn podemos cambiar MOSFET un de maior corrente (VGS min<=12V\| VGS sat)
+Unha opciÛn e por un TOPFET-N que xa conta con driver interno e proteccÛns.
+Resumindo È unha carga electrÛnica mÌ≠nima con posibilidades de maior control mediante microcontrolador...
+Sa˙2.
 
 ## [VersiÛn 001]
 <img src="https://github.com/xdesig/CE6A/blob/main/CE6A_34.png">
