@@ -1,5 +1,5 @@
 
-# Rego
+# Carga electrónica de 6A "CE6A"
 
 
 > [!NOTE]
