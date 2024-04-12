@@ -21,3 +21,9 @@ Saú2.
 * Author: [XDeSIG][TWI01]
 * License: [CERN Open Hardware Licence Version 2 - Weakly Reciprocal][CERN-OHL-W]
 align="center">
+
+
+[CERN-OHL-W]: https://ohwr.org/cern_ohl_w_v2.pdf
+[TWI01]: https://twitter.com/xdesig
+[provider]: https://www.pcbway.com/project/shareproject/Controlador_de_ReGo_V401_bd0da5d6.html
+[OSHWA]: https://certification.oshwa.org/es000038.html
