@@ -11,11 +11,11 @@ Unha opción e por un TOPFET-N que xa conta con driver interno e proteccións.
 Resumindo é unha carga electrónica mínima con posibilidades de maior control mediante microcontrolador...
 Saú2. 
 
-## [Versi�n 001.]
+## [Versi�n 001]
 <img src="https://github.com/xdesig/CE6A/blob/main/CE6A_34.png">
 
 
-* ###  Dese�ado en Estrimia con agarimo.
+* ###  Dese�ado en Estrimia con agarimo.
 
 ## Author and license
 * Author: [XDeSIG][TWI01]
