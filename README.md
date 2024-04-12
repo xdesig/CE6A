@@ -20,7 +20,7 @@ Saú2.
 ## Author and license
 * Author: [XDeSIG][TWI01]
 * License: [CERN Open Hardware Licence Version 2 - Weakly Reciprocal][CERN-OHL-W]
-align="center">
+
 
 
 [CERN-OHL-W]: https://ohwr.org/cern_ohl_w_v2.pdf
