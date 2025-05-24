@@ -13,6 +13,7 @@ Saú2.
 
 ## [Versión 001]
 <img src="https://github.com/xdesig/CE6A/blob/main/CE6A_34.png">
+<img src="https://github.com/xdesig/CE6A/blob/main/IMG_20250523_193130.jpg">
 
 
 * ###  Deseñado en Estrimia con agarimo.
