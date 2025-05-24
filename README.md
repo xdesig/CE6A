@@ -12,8 +12,10 @@ Resumindo é unha carga electrónica mí­nima con posibilidades de maior control me
 Saú2.
 
 ## [Versión 001]
+<img src="https://github.com/xdesig/CE6A/blob/main/CE6A_Esq_ESQ.png">
 <img src="https://github.com/xdesig/CE6A/blob/main/CE6A_34.png">
 <img src="https://github.com/xdesig/CE6A/blob/main/IMG_20250523_193130.jpg">
+<img src="https://github.com/xdesig/CE6A/blob/main/IMG_20250523_193048.jpg">
 
 
 * ###  Deseñado en Estrimia con agarimo.
