@@ -24,7 +24,7 @@ Saú2.
 * Author: [XDeSIG][TWI01]
 * License: [CERN Open Hardware Licence Version 2 - S - Reciprocal][CERN-OHL-W]
 * Open Hardware Certification: [Es000052] [OSHWA]
-<img src="https://github.com/xdesig/CE6A/blob/main/certification-mark-ES000052-stacked.png" width="50" align="left">
+<img src="https://github.com/xdesig/CE6A/blob/main/certification-mark-ES000052-stacked.png" width="200" align="left">
 
 
 
