@@ -12882,7 +12882,7 @@ Source: www.luxeon.com&lt;p&gt;</description>
 <text x="254" y="7.62" size="2.54" layer="97">001</text>
 <text x="223.52" y="10.16" size="1.778" layer="97" align="center">Deseñado en Estrimia con Agarimo
 
-CERN-OHL-S-2.0 ES000052</text>
+CERN-OHL-S-2.0</text>
 <text x="241.3" y="142.748" size="1.778" layer="97">NT_CMF52</text>
 <text x="241.3" y="137.16" size="1.778" layer="97">Ventila 12V</text>
 <text x="64.516" y="23.876" size="1.778" layer="97">Elixe un LED</text>
